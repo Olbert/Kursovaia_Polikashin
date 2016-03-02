@@ -1,0 +1,39 @@
+1
+3
+Программа?
+1
+программа1
+1
+true
+Task
+C++
+17
+#include "stdafx.h"
+#include <iostream>
+#include <fstream>
+#include <time.h>
+using namespace std;
+int main()
+{
+	long double a, b, c;
+	while (b) {
+		c = a % b;
+		a = b;
+		b = c;
+	}
+	input >> a >> b;
+	output << "Ответ: " << abs(a);
+	return 0;
+}
+false
+Язык?
+1
+C++
+2
+true
+Language
+C++
+false
+Папка?
+true
+DIR
