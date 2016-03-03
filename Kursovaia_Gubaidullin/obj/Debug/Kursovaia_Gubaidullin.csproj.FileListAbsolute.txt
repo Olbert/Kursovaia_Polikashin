@@ -23,3 +23,6 @@ C:\Users\Альберт\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaid
 C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\bin\Debug\Kursovaia_Gubaidullin.exe.config
 C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.exe
 C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.pdb
+E:\GitRepos\Kursovaia_Polikashin\Kursovaia_Gubaidullin\bin\Debug\Kursovaia_Gubaidullin.exe.config
+E:\GitRepos\Kursovaia_Polikashin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.exe
+E:\GitRepos\Kursovaia_Polikashin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.pdb
