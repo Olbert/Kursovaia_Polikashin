@@ -23,3 +23,9 @@ C:\Users\Альберт\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaid
 C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\bin\Debug\Kursovaia_Gubaidullin.exe.config
 C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.exe
 C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.pdb
+C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.csprojResolveAssemblyReference.cache
+C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.Creator.resources
+C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.Questions.resources
+C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.Properties.Resources.resources
+C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.Settings.resources
+C:\Users\iampi\OneDrive\ПЧМИ\Kursovaia_Gubaidullin\Kursovaia_Gubaidullin\obj\Debug\Kursovaia_Gubaidullin.csproj.GenerateResource.Cache

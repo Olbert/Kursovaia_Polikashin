@@ -23,7 +23,6 @@ namespace Kursovaia_Gubaidullin
         int CurrentLine = 2;
         
 
-
         public Creator(Form f)
         {
             InitializeComponent();
