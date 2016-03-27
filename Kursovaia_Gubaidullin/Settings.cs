@@ -12,9 +12,9 @@ namespace Kursovaia_Gubaidullin
 {
     public partial class Settings : Form
     {
-        Questions ParentForm = null;
+        View ParentForm = null;
         public string CompilerPath = null;
-        public Settings(Questions f)
+        public Settings(View f)
         {
             InitializeComponent();
             ParentForm = f;

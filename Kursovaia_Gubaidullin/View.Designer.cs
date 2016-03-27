@@ -1,6 +1,6 @@
 ﻿namespace Kursovaia_Gubaidullin
 {
-    partial class Questions
+    partial class View
     {
         /// <summary>
         /// Обязательная переменная конструктора.
